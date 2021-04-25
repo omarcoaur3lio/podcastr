@@ -41,6 +41,7 @@ Este projeto foi idealizado pela [Rocketseat](https://rocketseat.com.br/), e des
 </p>
 
 <br>
+
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
