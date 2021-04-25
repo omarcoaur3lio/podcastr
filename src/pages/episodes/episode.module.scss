@@ -24,13 +24,13 @@
             &:first-child {
                 left: 0;
                 top: 50%;
-                background: var(--purple-500);
+                background: var(--dark);
                 transform: translate(-50%, -50%);
             }
             &:last-child {
                 right: 0;
                 top: 50%;
-                background: var(--green-500);
+                background: var(--orange-500);
                 transform: translate(50%, -50%);
             }
 

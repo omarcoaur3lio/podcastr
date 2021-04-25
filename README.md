@@ -1,70 +1,58 @@
-# Getting Started with Create React App
+<p align="center">
+   <img src="./.github/logo.svg" alt="Proffy" width="280"/>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">	
 
-## Available Scripts
+   <a href="https://www.linkedin.com/in/omarcoaur3lio/">
+      <img alt="Marco Aurélio" src="https://img.shields.io/badge/-Marco Aurélio-000?style=flat&logo=Linkedin&logoColor=white" />
+   </a>
 
-In the project directory, you can run:
+  <a aria-label="Completed" href="https://rocketseat.com.br/">
+    <img src="https://img.shields.io/badge/Podcastr-NLW 5-000?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAALVBMVEVHcExxWsF0XMJzXMJxWcFsUsD///9jRrzY0u6Xh9Gsn9n39fyMecy0qd2bjNJWBT0WAAAABHRSTlMA2Do606wF2QAAAGlJREFUGJVdj1cWwCAIBLEsRU3uf9xobDH8+GZwUYi8i6ucJwrxKE+7D0G9Q4vlYqtmCSjndr4CgCgzlyFgfKfKCVO0LrPKjmiqMxGXkJwNnXskqWG+1oSM+BSwD8f29YLNjvx/OQrn+g99oQSoNmt3PgAAAABJRU5ErkJggg=="></img>
+  </a>
 
-### `yarn start`
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/omarcoaur3lio/podcastr?style=flat&color=000">
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+  <a href="https://github.com/omarcoaur3lio/podcastr/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/omarcoaur3lio/podcastr?color=000&logo=github">
+  </a>
+</p>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<p align="center">
+  <a href="#bookmark-sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#clapper-demonstração">Demonstração</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#sparkles-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
+</p>
+## :bookmark: Sobre
+O **Podcastr** é uma aplicação desenvolvida para servir como site de um podcast.  
+Nessa aplicação foi possível praticar técnicas como: Manuseio de áudios, geração de páginas estáticas e conexão com back-end da aplicação.
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Este projeto foi idealizado pela [Rocketseat](https://rocketseat.com.br/), e desenvolvido durante a **NLW #5**.
 
-### `yarn build`
+<br>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## :clapper: Demonstração 
+<p style="display: flex; align-itens:cener; justify-content: center">
+  <img src="./.github/preview.gif" alt="demonstracao" width="90%" />
+</p>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<br>
+## :rocket: Tecnologias
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-### `yarn eject`
+- [React](https://reactjs.org)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Next.js](https://nextjs.org/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<br>
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## :sparkles: Como contribuir
+* Faça um fork;
+* Crie uma branch com sua feature: `git checkout -b featureName`;
+* Realize um Commit: `git commit -m 'feat: My new feature`;
+* Faça um push para sua branch: `git push origin featureName`.
+* Após o "merge" for concluído, você pode excluir sua branch.
