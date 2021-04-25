@@ -25,6 +25,7 @@
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#sparkles-como-contribuir">Como contribuir</a>&nbsp;&nbsp;&nbsp;
 </p>
+
 ## :bookmark: Sobre
 O **Podcastr** é uma aplicação desenvolvida para servir como site de um podcast.  
 Nessa aplicação foi possível praticar técnicas como: Manuseio de áudios, geração de páginas estáticas e conexão com back-end da aplicação.
